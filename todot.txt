@@ -1,0 +1,18 @@
+
+//Main
+Welcome to the Banking System. Follow the instructions below to get
+started
+First enter name
+input name
+save name to Banking instance
+Enter account number
+input account number
+save account number to Banking instance
+Enter routing number
+input routing number
+save routing number to Banking instance
+Enter initial balance
+input balance
+save balance to Banking instance
+
+
